@@ -1,3 +1,5 @@
+Soon(ish) we will start to see some apps conventions here.
+
 [angular-app]: https://github.com/angular-app/angular-app
 [angular-generator]: https://github.com/yeoman/generator-angular
 [angular-seed]: https://github.com/angular/angular-seed
